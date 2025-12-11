@@ -156,7 +156,7 @@ Stashes can be listed out:
 
 ```bash
 git stash list
-git stash show [--index <index>]
+git stash show [<index>]
 ```
 
 <br>
